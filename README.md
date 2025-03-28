@@ -19,13 +19,10 @@
    - [Form12.cs (Vocabulary Trainer)](#form12cs-vocabulary-trainer)  
    - [Form13.cs (Progress Tracker)](#form13cs-progress-tracker)  
 5. [**Installation & Setup**](#-installation--setup)  
-6. [**Usage Guide**](#-usage-guide)  
-7. [**Code Improvements & Best Practices**](#-code-improvements--best-practices)  
-8. [**Known Issues & Limitations**](#-known-issues--limitations)  
-9. [**Future Enhancements**](#-future-enhancements)  
-10. [**Support & Contact**](#-support--contact)
-11. .[**License**](#License)
-12. .[**Contributors**](#Contributors)
+6. [**Usage Guide**](#-usage-guide)    
+7. [**Support & Contact**](#-support--contact)
+8. .[**License**](#License)
+9. .[**Contributors**](#Contributors)
 
 ---
 
@@ -172,40 +169,6 @@ Target Audience: Language learners, educators, and travelers.
    - **Vocabulary (Form12)**: View translated word lists.  
 3. **Track Progress**:  
    - Check `Form13` for cumulative usage analytics.  
-
----
-
-## **🔧 Code Improvements & Best Practices**  
-1. **Reduced Redundancy**:  
-   - Replace repetitive language mappings with dictionaries.  
-   - Example (Form5.cs):  
-     ```csharp
-     var languageMap = new Dictionary<string, string> {
-         {"Afrikaans", "af-ZA"}, 
-         {"Arabic", "ar-SA"}
-     };
-     ```
-2. **Error Handling**:  
-   - Add try-catch blocks for API calls (Form6.cs).  
-3. **Resource Management**:  
-   - Implement `IDisposable` for `SpeechSynthesizer`.  
-
----
-
-## **⚠️ Known Issues & Limitations**  
-| **Issue** | **Workaround** |  
-|----------|--------------|  
-| Some TTS voices unavailable | Use "en-US" as fallback |  
-| Google API rate limits | Limit request frequency |  
-| PDF viewer dependencies | Install Syncfusion PDF Viewer |  
-
----
-
-## **🚀 Future Enhancements**  
-1. **User Accounts**: Save progress to cloud.  
-2. **Speech Recognition**: Pronunciation evaluation.  
-3. **Mobile App**: Xamarin/iOS/Android port.  
-4. **Gamification**: Badges/achievements.  
 
 ---
 
