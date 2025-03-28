@@ -73,6 +73,29 @@ Target Audience: Language learners, educators, and travelers.
 
 ## **📋 Forms & Functionalities**  
 
+## Project Structure
+```
+├── LinguaLearn
+│   ├── Account.cs
+│   ├── Form1.cs
+│   ├── Form2.cs
+│   ├── Form3.cs
+│   ├── Form4.cs
+│   ├── Form5.cs
+│   ├── Form6.cs
+│   ├── Form7.cs
+│   ├── Form8.cs
+│   ├── Form9.cs
+│   ├── Form10.cs
+│   ├── Form11.cs
+│   ├── Form12.cs
+│   ├── Form13.cs
+│   ├── Program.cs
+│   ├── Documentation (contains user manual and design docs)
+│   ├── README.md
+```
+
+
 ### **Program.cs**  
 - **Entry point**: Initializes `Form8` (Main Dashboard).  
 - **Key Code**:  
@@ -151,12 +174,31 @@ Target Audience: Language learners, educators, and travelers.
 - .NET Framework 4.7.2+  
 - Internet connection (for translation/TTS)  
 
-### **Steps**  
-1. Clone the repository.  
-2. Open in Visual Studio (2019+).  
-3. Build solution (F6).  
-4. Run `Program.cs`.  
+### Step 1: Install Visual Studio
+If you haven’t installed Visual Studio, download and install it from [Visual Studio Download](https://visualstudio.microsoft.com/downloads/).
 
+### Step 2: Install .NET App Development Module
+1. Open Visual Studio Installer.
+2. Navigate to **Modify > Individual Components**.
+3. Check **.NET Desktop Development**.
+4. Click **Modify** to install.
+
+### Step 3: Clone the Repository
+Download or clone the repository from GitHub using the following command:
+```sh
+ git clone https://github.com/yourusername/LinguaLearn.git
+```
+Alternatively, you can manually download the ZIP file and extract it.
+
+### Step 4: Open the Project in Visual Studio
+1. Launch Visual Studio.
+2. Click **Continue without code**.
+3. Open the extracted folder by navigating to **File > Open > Folder**.
+4. Double-click `Program.cs` to open the main entry file.
+
+### Step 5: Run the Application
+1. Click on the **Run** button in Visual Studio.
+2. The application will launch, and you can start using its features.
 ---
 
 ## **📖 Usage Guide**  
@@ -185,6 +227,8 @@ If you encounter any issues while using LinguaLearn, our support team is here to
 ## **License**
 
 This project is open-source and available under the MIT License.
+
+---
 
 ## **Contributors**
 
