@@ -75,23 +75,30 @@ Target Audience: Language learners, educators, and travelers.
 
 ## Project Structure
 ```
-├── LinguaLearn
-│   ├── Account.cs
-│   ├── Form1.cs
-│   ├── Form2.cs
-│   ├── Form3.cs
-│   ├── Form4.cs
-│   ├── Form5.cs
-│   ├── Form6.cs
-│   ├── Form7.cs
-│   ├── Form8.cs
-│   ├── Form9.cs
-│   ├── Form10.cs
-│   ├── Form11.cs
-│   ├── Form12.cs
-│   ├── Form13.cs
-│   ├── Program.cs
-│   ├── Documentation (contains user manual and design docs)
+├── LinguaLearn,
+|   ├── Lingualearn,
+|      ├── Packages,
+|      ├── Lingualearn,
+│         ├── Account.cs
+│         ├── Form1.cs
+│         ├── Form2.cs
+│         ├── Form3.cs
+│         ├── Form4.cs
+│         ├── Form5.cs
+│         ├── Form6.cs
+│         ├── Form7.cs
+│         ├── Form8.cs
+│         ├── Form9.cs
+│         ├── Form10.cs
+│         ├── Form11.cs
+│         ├── Form12.cs
+│         ├── Form13.cs
+│         ├── Program.cs
+│   ├── Documentation (contains user manual and design docs),
+|      ├── LinguaLearn.pptx
+|      ├── LinguaLearn_Docs1
+|      ├── LinguaLearn_Docs2
+|      ├── LinguaLearn_Docs3
 │   ├── README.md
 ```
 
@@ -186,7 +193,7 @@ If you haven’t installed Visual Studio, download and install it from [Visual S
 ### Step 3: Clone the Repository
 Download or clone the repository from GitHub using the following command:
 ```sh
- git clone https://github.com/yourusername/LinguaLearn.git
+ git clone https://github.com/SahilKumar775/LinguaLearn.git
 ```
 Alternatively, you can manually download the ZIP file and extract it.
 
@@ -224,13 +231,14 @@ If you encounter any issues while using LinguaLearn, our support team is here to
 
 --- 
 
-## **License**
+## **📜 License**
 
-This project is open-source and available under the MIT License.
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## **Contributors**
+## **✨ Contributors**
 
 1. **Sahil Kumar**
 2. **Meher Amir**
