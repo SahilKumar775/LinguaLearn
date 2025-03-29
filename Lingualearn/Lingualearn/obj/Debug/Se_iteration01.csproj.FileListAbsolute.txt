@@ -1,0 +1,149 @@
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.csproj.AssemblyReference.cache
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form1.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Properties.Resources.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.csproj.GenerateResource.cache
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.csproj.CoreCompileInputs.cache
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Se_iteration01.exe.config
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Se_iteration01.exe
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Se_iteration01.pdb
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.exe
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.pdb
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form2.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form3.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.csproj.CopyComplete
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form4.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form5.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form6.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\bin\Debug\Se_iteration01.exe
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\bin\Debug\Se_iteration01.exe.config
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\bin\Debug\AIMLBot.dll
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.csproj.AssemblyReference.cache
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.Form1.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.Form2.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.Form3.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.Form4.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.Form5.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.Form6.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.Properties.Resources.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.csproj.GenerateResource.cache
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.csproj.CoreCompileInputs.cache
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.csproj.CopyComplete
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.exe
+C:\Users\sahil\source\repos\Se_iteration01 - Copy\Se_iteration01\obj\Debug\Se_iteration01.pdb
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\bin\Debug\Se_iteration01.exe.config
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\bin\Debug\Se_iteration01.exe
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\bin\Debug\Se_iteration01.pdb
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\bin\Debug\AIMLBot.dll
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.csproj.AssemblyReference.cache
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.Form1.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.Form2.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.Form3.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.Form4.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.Form5.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.Form6.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.Properties.Resources.resources
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.csproj.GenerateResource.cache
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.csproj.CoreCompileInputs.cache
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.csproj.CopyComplete
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.exe
+C:\Users\sahil\source\repos\Se_iteration01 - Copy - Copy\Se_iteration01\obj\Debug\Se_iteration01.pdb
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Google.Apis.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Google.Apis.Auth.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Google.Apis.Core.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Google.Apis.Oauth2.v2.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.CodeDom.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form7.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Interop.WMPLib.dll
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.csproj.ResolveComReference.cache
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Interop.WMPLib.dll
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form8.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form9.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form10.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\RestSharp.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Buffers.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Data.Odbc.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Data.OleDb.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Drawing.Common.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.IO.Packaging.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.IO.Ports.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Memory.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Security.AccessControl.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Security.Permissions.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.csproj.Fody.CopyLocal.cache
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Account.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form11.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Spire.Pdf.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Spire.PdfViewer.Asp.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form12.resources
+C:\Users\sahil\source\repos\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form13.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.exe
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.pdb
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.csproj.AssemblyReference.cache
+E:\Se_iteration01\Se_iteration01\obj\Debug\Interop.WMPLib.dll
+E:\Se_iteration01\Se_iteration01\obj\Debug\AxInterop.WMPLib.dll
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.csproj.ResolveComReference.cache
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Account.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form1.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form10.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form11.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form12.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form13.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form2.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form3.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form4.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form5.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form6.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form7.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form8.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Form9.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.Properties.Resources.resources
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.csproj.GenerateResource.cache
+E:\Se_iteration01\Se_iteration01\obj\Debug\Se_iteration01.csproj.CoreCompileInputs.cache
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.csproj.AssemblyReference.cache
+E:\Se_iteration01\Lingualearn\obj\Debug\Interop.WMPLib.dll
+E:\Se_iteration01\Lingualearn\obj\Debug\AxInterop.WMPLib.dll
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.csproj.ResolveComReference.cache
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Account.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form1.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form10.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form11.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form12.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form13.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form2.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form3.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form4.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form5.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form6.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form7.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form8.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Form9.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.Properties.Resources.resources
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.csproj.GenerateResource.cache
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.csproj.CoreCompileInputs.cache
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.exe
+E:\Se_iteration01\Lingualearn\obj\Debug\Se_iteration01.pdb
